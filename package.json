@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/idahobean/sample-node.git"
+    "url": "git@github.com:idahobean/sample-node.git"
   },
   "author": "idahobean",
   "license": "MIT License",
