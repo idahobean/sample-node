@@ -1,0 +1,21 @@
+{
+  "name": "sample-node",
+  "version": "0.0.1",
+  "description": "sample node for Node-RED",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/idahobean/sample-node.git"
+  },
+  "author": "idahobean",
+  "license": "MIT License",
+  "keywords": [ "node-red" ],
+  "node-red": {
+    "nodes": {
+      "sample-node": "sampleNode.js"
+    }
+  }
+}
